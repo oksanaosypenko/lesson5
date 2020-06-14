@@ -1,0 +1,61 @@
+body {
+background-color: black;
+font-family:'Open Sans', sans-serif;
+        
+color: white;
+text-align: center;
+position: relative;
+margin-bottom: 100px;
+}
+
+.container {
+    position: fixed;
+    left: 0;
+    bottom: 28px;
+    width: 100%;
+   
+    color: white;
+}
+ 
+    p{
+        text-transform: uppercase;
+        color: white;
+        letter-spacing: 3px;
+        font-size: 18px;
+    }
+
+    hr.solid {
+        
+        border-top: 1px solid white;
+        border-radius: 5px;
+        width: 230px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+    li {
+        display: inline-block;
+    }
+
+    .sb {
+        margin-top: -150px;
+      text-align: center;
+      display: inline-block;
+ height: 15px;
+ width: 40px;
+ border: none;
+ color: white;
+    }
+    
+    #kasper {
+        color:skyblue
+        
+    }
+    a {
+        text-decoration: none;
+    }
+  
+
+
+
