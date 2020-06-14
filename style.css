@@ -10,9 +10,10 @@ margin-bottom: 100px;
 a:hover {
     color: pink;
 }
+
 #logo {
     height: 41px;
-    width:116px;
+    width: 116px;
     margin-left: 580px;
 }
 
