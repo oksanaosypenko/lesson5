@@ -7,6 +7,9 @@ text-align: center;
 position: relative;
 margin-bottom: 100px;
 }
+a:hover {
+    color: pink;
+}
 #logo {
     height: 41px;
     width:116px;
